@@ -176,3 +176,417 @@ ${HOST}/play/live.php?mac=${MAC}&stream=889472&extension=ts
 ${HOST}/play/live.php?mac=${MAC}&stream=889470&extension=ts
 #EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BLUE-SPORT-1-HEVC.png" , BLUE SPORT 2
 ${HOST}/play/live.php?mac=${MAC}&stream=889469&extension=ts
+
+#EXTM3U
+#EXTINF:-1 group-title="DEUTSCHLAND",↺ARD FHD
+${HOST3}/${user}/${pass}/154591
+#EXTINF:-1 group-title="DEUTSCHLAND",ARD HD
+${HOST3}/${user}/${pass}/95550
+#EXTINF:-1 group-title="DEUTSCHLAND",↺ZDF FHD
+${HOST3}/${user}/${pass}/95552
+#EXTINF:-1 group-title="DEUTSCHLAND",ZDF HD
+${HOST3}/${user}/${pass}/95551
+#EXTINF:-1 group-title="DEUTSCHLAND",↺RTL FHD
+${HOST3}/${user}/${pass}/95556
+#EXTINF:-1 group-title="DEUTSCHLAND",RTL HD
+${HOST3}/${user}/${pass}/95557
+#EXTINF:-1 group-title="DEUTSCHLAND",↺RTL 2 FHD
+${HOST3}/${user}/${pass}/95558
+#EXTINF:-1 group-title="DEUTSCHLAND",RTL 2 HD
+${HOST3}/${user}/${pass}/95559
+#EXTINF:-1 group-title="DEUTSCHLAND",↺SAT 1 FHD
+${HOST3}/${user}/${pass}/95566
+#EXTINF:-1 group-title="DEUTSCHLAND",SAT 1 HD
+${HOST3}/${user}/${pass}/95567
+#EXTINF:-1 group-title="DEUTSCHLAND",↺PROSIEBEN FHD
+${HOST3}/${user}/${pass}/95560
+#EXTINF:-1 group-title="DEUTSCHLAND",PROSIEBEN HD
+${HOST3}/${user}/${pass}/95561
+#EXTINF:-1 group-title="DEUTSCHLAND",↺VOX FHD
+${HOST3}/${user}/${pass}/95571
+#EXTINF:-1 group-title="DEUTSCHLAND",VOX HD
+${HOST3}/${user}/${pass}/95572
+#EXTINF:-1 group-title="DEUTSCHLAND",VOX UP
+${HOST3}/${user}/${pass}/95573
+#EXTINF:-1 group-title="DEUTSCHLAND",↺KABEL EINS FHD
+${HOST3}/${user}/${pass}/95574
+#EXTINF:-1 group-title="DEUTSCHLAND",KABEL EINS HD
+${HOST3}/${user}/${pass}/95575
+#EXTINF:-1 group-title="DEUTSCHLAND",↺PROSIEBEN MAXX FHD
+${HOST3}/${user}/${pass}/95562
+#EXTINF:-1 group-title="DEUTSCHLAND",PROSIEBEN MAXX HD
+${HOST3}/${user}/${pass}/95563
+#EXTINF:-1 group-title="DEUTSCHLAND",↺PRO 7FUN FHD
+${HOST3}/${user}/${pass}/95564
+#EXTINF:-1 group-title="DEUTSCHLAND",PRO 7FUN  HD
+${HOST3}/${user}/${pass}/95565
+#EXTINF:-1 group-title="DEUTSCHLAND",↺KABEL EINS CLASSICS FHD
+${HOST3}/${user}/${pass}/117975
+#EXTINF:-1 group-title="DEUTSCHLAND",KABEL EINS CLASSICS HD
+${HOST3}/${user}/${pass}/95576
+#EXTINF:-1 group-title="DEUTSCHLAND",TV NOW FHD
+${HOST3}/${user}/${pass}/192047
+#EXTINF:-1 group-title="DEUTSCHLAND",TV NOW HD
+${HOST3}/${user}/${pass}/192048
+#EXTINF:-1 group-title="DEUTSCHLAND",↺RTL CRIME FHD
+${HOST3}/${user}/${pass}/106168
+#EXTINF:-1 group-title="DEUTSCHLAND",RTL CRIME HD
+${HOST3}/${user}/${pass}/95582
+#EXTINF:-1 group-title="DEUTSCHLAND",↺SAT 1 GOLD FHD
+${HOST3}/${user}/${pass}/95568
+#EXTINF:-1 group-title="DEUTSCHLAND",SAT 1 GOLD HD
+${HOST3}/${user}/${pass}/95569
+#EXTINF:-1 group-title="DEUTSCHLAND",↺SAT 1 EMOTIONS FHD
+${HOST3}/${user}/${pass}/95570
+#EXTINF:-1 group-title="DEUTSCHLAND",SAT 1 EMOTIONS HD
+${HOST3}/${user}/${pass}/290256
+#EXTINF:-1 group-title="DEUTSCHLAND",↺KABEL EINS DOKU FHD
+${HOST3}/${user}/${pass}/95673
+#EXTINF:-1 group-title="DEUTSCHLAND",KABEL EINS DOKU HD
+${HOST3}/${user}/${pass}/155710
+#EXTINF:-1 group-title="DEUTSCHLAND",↺ZDF NEO FHD
+${HOST3}/${user}/${pass}/95553
+#EXTINF:-1 group-title="DEUTSCHLAND",ZDF NEO HD
+${HOST3}/${user}/${pass}/95554
+#EXTINF:-1 group-title="DEUTSCHLAND",↺ZDF INFO HD
+${HOST3}/${user}/${pass}/95555
+#EXTINF:-1 group-title="DEUTSCHLAND",↺SKY REPLAY FHD
+${HOST3}/${user}/${pass}/153823
+#EXTINF:-1 group-title="DEUTSCHLAND",SKY REPLAY HD
+${HOST3}/${user}/${pass}/107978
+#EXTINF:-1 group-title="DEUTSCHLAND",↺NITRO FHD
+${HOST3}/${user}/${pass}/95577
+#EXTINF:-1 group-title="DEUTSCHLAND",NITRO HD
+${HOST3}/${user}/${pass}/95578
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX MARTIAL ARTS KINDER
+${HOST3}/${user}/${pass}/622953
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX MARTIAL ARTS THRILLER
+${HOST3}/${user}/${pass}/622952
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX MARTIAL ARTS KOMÖDIE
+${HOST3}/${user}/${pass}/622951
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX MARTIAL ARTS SPORT
+${HOST3}/${user}/${pass}/622950
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX MARTIAL ARTS SCIENCE FICTION
+${HOST3}/${user}/${pass}/622949
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX MARTIAL ARTS ACTION
+${HOST3}/${user}/${pass}/622948
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX MARTIAL ARTS FANTASY
+${HOST3}/${user}/${pass}/622947
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX PLANET DER AFFEN
+${HOST3}/${user}/${pass}/622946
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX BOLLYWOOD
+${HOST3}/${user}/${pass}/622945
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX HIP HOP HOOD
+${HOST3}/${user}/${pass}/622944
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX SPIDER-MAN
+${HOST3}/${user}/${pass}/622943
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX HALLOWEEN 2
+${HOST3}/${user}/${pass}/622942
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX HALLOWEEN 1
+${HOST3}/${user}/${pass}/622941
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX THE FAST AND THE FURIOUS
+${HOST3}/${user}/${pass}/622940
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX THE EXPENDABLES
+${HOST3}/${user}/${pass}/622939
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX TRANSFORMERS
+${HOST3}/${user}/${pass}/622938
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX ROCKY
+${HOST3}/${user}/${pass}/622937
+#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX POLICE ACADEMY
+${HOST3}/${user}/${pass}/622936
+#EXTINF:-1 group-title="24/7 ACTOR",LEONARDO DICAPRIO
+${HOST3}/${user}/${pass}/593707
+#EXTINF:-1 group-title="24/7 ACTOR",RUSSEL CROWE
+${HOST3}/${user}/${pass}/593706
+#EXTINF:-1 group-title="24/7 ACTOR",JASON STATHAM
+${HOST3}/${user}/${pass}/593705
+#EXTINF:-1 group-title="24/7 ACTOR",TOM CRUISE
+${HOST3}/${user}/${pass}/593704
+#EXTINF:-1 group-title="24/7 ACTOR",SYLVESTER STALLONE
+${HOST3}/${user}/${pass}/593703
+#EXTINF:-1 group-title="24/7 ACTOR",BRUCE WILLIS
+${HOST3}/${user}/${pass}/593702
+#EXTINF:-1 group-title="24/7 ACTOR",JEAN CLAUDE VAN DAMME
+${HOST3}/${user}/${pass}/593701
+#EXTINF:-1 group-title="24/7 ACTOR",JACKIE CHAN
+${HOST3}/${user}/${pass}/593695
+#EXTINF:-1 group-title="24/7 ACTOR",DENZEL WASHINGTON
+${HOST3}/${user}/${pass}/593700
+#EXTINF:-1 group-title="24/7 ACTOR",WILL SMITH
+${HOST3}/${user}/${pass}/593699
+#EXTINF:-1 group-title="24/7 ACTOR",ARNOLD SCHWARZENEGGER
+${HOST3}/${user}/${pass}/593698
+#EXTINF:-1 group-title="24/7 ACTOR",TOMMY LEE JONES
+${HOST3}/${user}/${pass}/593697
+#EXTINF:-1 group-title="24/7 ACTOR",KURT RUSSELL
+${HOST3}/${user}/${pass}/593696
+#EXTINF:-1 group-title="24/7 ACTOR",007
+${HOST3}/${user}/${pass}/593710
+#EXTINF:-1 group-title="24/7 ACTOR",WESTERN 1
+${HOST3}/${user}/${pass}/593709
+#EXTINF:-1 group-title="24/7 ACTOR",WESTERN 2
+${HOST3}/${user}/${pass}/593708
+#EXTINF:-1 group-title="24/7 ACTOR",BOLLYWOOD 1
+${HOST3}/${user}/${pass}/593712
+#EXTINF:-1 group-title="24/7 ACTOR",BOLLYWOOD
+${HOST3}/${user}/${pass}/593711
+#EXTINF:-1 group-title="24/7 ACTOR",STAR WARS
+${HOST3}/${user}/${pass}/593714
+#EXTINF:-1 group-title="24/7 ACTOR",MARVEL
+${HOST3}/${user}/${pass}/593713
+#EXTINF:-1 group-title="KINDER ★ 24/7",SUPER RTL FHD
+${HOST3}/${user}/${pass}/95638
+#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 5 RAW KABEL
+${HOST3}/${user}/${pass}/160917
+#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 5 HD
+${HOST3}/${user}/${pass}/95787
+#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 6 RAW KABEL
+${HOST3}/${user}/${pass}/160918
+#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 6 HD
+${HOST3}/${user}/${pass}/95789
+#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 7 RAW KABEL
+${HOST3}/${user}/${pass}/160919
+#EXTINF:-1 group-title="SKY BUNDESLIGA",↺DE: SKY BUNDESLIGA 7 HD
+${HOST3}/${user}/${pass}/95791
+#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 8 RAW KABEL
+${HOST3}/${user}/${pass}/160920
+#EXTINF:-1 group-title="SKY BUNDESLIGA",↺DE: SKY BUNDESLIGA 8 HD
+${HOST3}/${user}/${pass}/95793
+#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 9 RAW KABEL
+${HOST3}/${user}/${pass}/160921
+#EXTINF:-1 group-title="SKY BUNDESLIGA",↺DE: SKY BUNDESLIGA 9 HD
+${HOST3}/${user}/${pass}/95795
+#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 10 RAW KABEL
+${HOST3}/${user}/${pass}/160922
+#EXTINF:-1 group-title="SKY BUNDESLIGA",↺DE: SKY BUNDESLIGA 10 HD
+${HOST3}/${user}/${pass}/95797
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",★☆★ DAZN SPORT ★☆★
+${HOST3}/${user}/${pass}/197298
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN COMBAT FHD
+${HOST3}/${user}/${pass}/587763
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN FAST FHD
+${HOST3}/${user}/${pass}/534027
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN RISE FHD
+${HOST3}/${user}/${pass}/534028
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 1 QHD
+${HOST3}/${user}/${pass}/95893
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 1 KABEL
+${HOST3}/${user}/${pass}/126492
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 1 FHD
+${HOST3}/${user}/${pass}/95891
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 1 HD
+${HOST3}/${user}/${pass}/95917
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 2 KABEL
+${HOST3}/${user}/${pass}/126491
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 2 HEVC
+${HOST3}/${user}/${pass}/149642
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 2 FHD
+${HOST3}/${user}/${pass}/95920
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 2 HD
+${HOST3}/${user}/${pass}/95892
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",UEFA | DAZN SPORT 1 FHD
+${HOST3}/${user}/${pass}/276901
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",UEFA | DAZN SPORT 1 HD
+${HOST3}/${user}/${pass}/276902
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN EUROSPORT 2 HD
+${HOST3}/${user}/${pass}/197302
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORTDIGITAL HD
+${HOST3}/${user}/${pass}/197303
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN NBA FHD
+${HOST3}/${user}/${pass}/197304
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN NFL NETWORK FHD
+${HOST3}/${user}/${pass}/197305
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 1
+${HOST3}/${user}/${pass}/626015
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 2
+${HOST3}/${user}/${pass}/626014
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 3
+${HOST3}/${user}/${pass}/626013
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 4
+${HOST3}/${user}/${pass}/626012
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 5
+${HOST3}/${user}/${pass}/626011
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 6
+${HOST3}/${user}/${pass}/626010
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 7
+${HOST3}/${user}/${pass}/626009
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 8
+${HOST3}/${user}/${pass}/626008
+#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 9
+${HOST3}/${user}/${pass}/626007
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 15 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548739
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 16 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548740
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 17 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548741
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 18 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548742
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 19 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548743
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 20 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548744
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 21 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548745
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 22 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548746
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 23 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548747
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 24 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548748
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 25 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548749
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 26 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548750
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 27 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548751
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 28 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548752
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 29 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548753
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 30 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548754
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 31 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548755
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 32 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548756
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 33 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548757
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 34 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548758
+#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 35 [SPIELZEIT]
+${HOST3}/${user}/${pass}/548759
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",★☆★ UEFA CHAMPIONS LEAGUE ★☆★
+${HOST3}/${user}/${pass}/310104
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 1 RAW
+${HOST3}/${user}/${pass}/310115
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 1 HEVC
+${HOST3}/${user}/${pass}/310116
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 1 FHD
+${HOST3}/${user}/${pass}/310117
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 1 HD
+${HOST3}/${user}/${pass}/310118
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 2 RAW
+${HOST3}/${user}/${pass}/310119
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 2 FHD
+${HOST3}/${user}/${pass}/310120
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 2 HD
+${HOST3}/${user}/${pass}/310121
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 3 HD
+${HOST3}/${user}/${pass}/310124
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 4 RAW
+${HOST3}/${user}/${pass}/310125
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 4 FHD
+${HOST3}/${user}/${pass}/310126
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 4 HD
+${HOST3}/${user}/${pass}/310127
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 5 RAW
+${HOST3}/${user}/${pass}/310128
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 5 FHD
+${HOST3}/${user}/${pass}/310129
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 5 HD
+${HOST3}/${user}/${pass}/310130
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 6 RAW
+${HOST3}/${user}/${pass}/310131
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 6 FHD
+${HOST3}/${user}/${pass}/310132
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 6 HD
+${HOST3}/${user}/${pass}/310133
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 7 RAW
+${HOST3}/${user}/${pass}/310134
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 7 FHD
+${HOST3}/${user}/${pass}/310135
+#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 7 HD
+${HOST3}/${user}/${pass}/310136
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | ABENTEUER FILME 20
+${HOST3}/${user}/${pass}/587743
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 ACTION
+${HOST3}/${user}/${pass}/585694
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 ACTION 1 [NEW]
+${HOST3}/${user}/${pass}/310381
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 ACTION 2 [NEW]
+${HOST3}/${user}/${pass}/310382
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 ACTION 3 [NEW]
+${HOST3}/${user}/${pass}/310383
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 AFRIKA
+${HOST3}/${user}/${pass}/540458
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 ALIEN
+${HOST3}/${user}/${pass}/522097
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 ANIME
+${HOST3}/${user}/${pass}/318809
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 ASTERIX
+${HOST3}/${user}/${pass}/585676
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 BRUCE WILLIS
+${HOST3}/${user}/${pass}/585691
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 BOLLYWOOD
+${HOST3}/${user}/${pass}/326008
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 COMEDY
+${HOST3}/${user}/${pass}/540451
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 DIE WILDEN KERLE
+${HOST3}/${user}/${pass}/585671
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 DRAMA
+${HOST3}/${user}/${pass}/310385
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 1
+${HOST3}/${user}/${pass}/596828
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 2
+${HOST3}/${user}/${pass}/596827
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 3
+${HOST3}/${user}/${pass}/596826
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 4
+${HOST3}/${user}/${pass}/596825
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 5
+${HOST3}/${user}/${pass}/596824
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 6
+${HOST3}/${user}/${pass}/596823
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 7
+${HOST3}/${user}/${pass}/596822
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 8
+${HOST3}/${user}/${pass}/596821
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 9
+${HOST3}/${user}/${pass}/596820
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 10
+${HOST3}/${user}/${pass}/596819
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 11
+${HOST3}/${user}/${pass}/596818
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 12
+${HOST3}/${user}/${pass}/596817
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 13
+${HOST3}/${user}/${pass}/596816
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 14
+${HOST3}/${user}/${pass}/596815
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 15
+${HOST3}/${user}/${pass}/596814
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 16
+${HOST3}/${user}/${pass}/596813
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 17
+${HOST3}/${user}/${pass}/596812
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 18
+${HOST3}/${user}/${pass}/596811
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 19
+${HOST3}/${user}/${pass}/596810
+#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 20
+${HOST3}/${user}/${pass}/596809
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 DISNEY MOVIES
+${HOST3}/${user}/${pass}/318811
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 FILME 2023 5.1 TEST
+${HOST3}/${user}/${pass}/569350
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 FINAL DESTINATION
+${HOST3}/${user}/${pass}/585674
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 FLUCH DER KARIBIK
+${HOST3}/${user}/${pass}/540454
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 FILME [2022]
+${HOST3}/${user}/${pass}/210562
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 HORROR [NEW]
+${HOST3}/${user}/${pass}/310384
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 HALLOWEEN
+${HOST3}/${user}/${pass}/598756
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 HOOLIGAN
+${HOST3}/${user}/${pass}/328594
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 HIP-HOP
+${HOST3}/${user}/${pass}/318807
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 HARRY POTTER
+${HOST3}/${user}/${pass}/219499
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 HERR DER RINGE/DER HOBBIT
+${HOST3}/${user}/${pass}/326012
+#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 7/24 HARRY POTTER [ENG]
+${HOST3}/${user}/${pass}/210412

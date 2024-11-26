@@ -1,179 +1,178 @@
 #EXTM3U
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/logos/GERMANY.png" , ##### GERMANY HEVC #####
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889559&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PROSIEBEN.png" , DE| PROSIEBEN HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889558&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PROSIEBENMAXXHD.png" , DE| PROSIEBEN MAXX HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889557&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/RTL.png" , DE| RTL HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889556&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/RTL.png" , DE| RTL II HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889555&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SAT1GOLDHD.png" , DE| SAT.1 GOLD HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889554&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SAT1GOLDHD.png" , DE| SAT.1 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889553&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VOXHD.png" , DE| VOX HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889552&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KABEL1HD.png" , DE| KABEL 1 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889551&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SIXXHD.png" , DE| SIXX  HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889550&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/dmax.png" , DE| DMAX HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889549&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/kika.png" , DE| KIKA HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889548&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DISNEY-CHANNEL.png" , DE| DISNEY CHANNEL HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889547&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/COMEDYCENTRAL.png" , DE| COMEDY CENTRAL HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889546&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DELUXEMUSICHD.png" , DE| DELUXE MUSIC HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889545&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KABEL1HD.png" , DE| KABEL 1 DOKU HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889543&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/13th_Street_Universal_HD.png" , DE| 13TH STREET HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889542&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MTV-HITS.png" , DE| MTV HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889541&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/N-TV.png" , DE| N-TV HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889540&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NITRO.png" , DE| NITRO HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889539&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WELT-HEVC.png" , DE| WELT HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889538&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DISCOVERY.png" , DE| DISCOVERY HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889537&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HISTORY.png" , DE| HISTORY HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889536&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/natgeowild.png" , DE| NAT GEO WILD HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889535&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NATIONAL%20GEOGRAPHIC.png" , DE| NATIONAL GEOGRAPHIC HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889534&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SPIEGELGESCHICHTE.png" , DE| SPIEGEL GESCHICHTE HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889533&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SUPERRTL.png" , DE| SUPER RTL HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889532&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SYFYHD.png" , DE| SYFY HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889531&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TELE5.png" , DE| TELE 5 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889530&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TLC.png" , DE| TLC HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889529&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UNIVERSAL.png" , DE| UNIVERSAL TV HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889528&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WARNERTV-COMEDY-HEVC.png" , DE| WARNERTV COMEDY HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889527&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WARNERTV-FILM-HEVC.png" , DE| WARNERTV FILM HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889526&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WARNERTV-SERIE-HEVC.png" , DE| WARNERTV SERIE HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889525&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-DOCUMENTARIES-FHD.png" , DE| SKY DOCUMENTARIES HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889524&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-NATURE-FHD.png" , DE| SKY NATURE HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889523&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-ONE-HEVC.png" , DE| SKY ONE HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889522&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-ATLANTIC-HEVC.png" , DE| SKY ATLANTIC HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889521&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-REPLAY-HEVC.png" , DE| SKY REPLAY HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889520&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CINEMA-ACTION-HEVC.png" , DE| SKY CINEMA ACTION HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889519&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-CINEMA-HIGHLIGHT.png" , DE| SKY CINEMA HIGHLIGHT HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889518&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CINEMA.png" , DE| SKY CINEMA FAMILY HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889517&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CINEMA.png" , DE| SKY CINEMA PREMIEREN +24 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889516&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skycinemapremieren.png" , DE| SKY CINEMA PREMIEREN HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889515&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skycinemaspecialhd.png" , DE| SKY CINEMA SPECIAL HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889514&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skycinemathrillerhd.png" , DE| SKY CINEMA THRILLER HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889513&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/logos/comedycentral.png" , DE| COMEDY CENTRAL HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889512&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skycrime.png" , DE| SKY CRIME HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889511&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skykrimi.png" , DE| SKY KRIMI HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889510&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SPORT-1-HEVC.png" , DE| SPORT 1 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889509&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/eurosport1.png" , DE| EUROSPORT 1 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889508&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/eurosport2.png" , DE| EUROSPORT 2 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889507&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DAZN-BAR-1-HEVC.png" , DE| DAZN BAR 1 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889506&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DAZN2BAR.png" , DE| DAZN BAR 2 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889505&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportnews.png" , DE| SKY SPORT NEWS HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889503&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/skysportf1hd.png" , DE| SKY SPORT F1 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889504&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga.png" , DE| SKY SPORT BUNDESLIGA 1 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889502&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , DE| SKY SPORT BUNDESLIGA HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=984666&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , DE| SKY SPORT TOP EVENT HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=984665&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , DE| SKY SPORT TENNIS HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=984664&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , DE| SKY SPORT PREMIER LEAGUE HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=984663&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , DE| SKY SPORT MIX HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=984662&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , DE| SKY SPORT GOLF HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=984661&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga2.png" , DE| SKY SPORT BUNDESLIGA 2 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889501&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga3.png" , DE| SKY SPORT BUNDESLIGA 3 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889500&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga4.png" , DE| SKY SPORT BUNDESLIGA 4 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889499&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga5.png" , DE| SKY SPORT BUNDESLIGA 5 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889498&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga6.png" , DE| SKY SPORT BUNDESLIGA 6 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889497&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga7.png" , DE| SKY SPORT BUNDESLIGA 7 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889496&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga8.png" , DE| SKY SPORT BUNDESLIGA 8 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889495&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga9.png" , DE| SKY SPORT BUNDESLIGA 9 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889494&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga10.png" , DE| SKY SPORT BUNDESLIGA 10 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889492&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysport1.png" , DE| SKY SPORT 1 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889491&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysport2.png" , DE| SKY SPORT 2 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889489&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysport3.png" , DE| SKY SPORT 3 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889488&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysport4.png" , DE| SKY SPORT 4 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889486&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysport5.png" , DE| SKY SPORT 5 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889485&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysport6.png" , DE| SKY SPORT 6 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889483&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysport7.png" , DE| SKY SPORT 7 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889482&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysport8.png" , DE| SKY SPORT 8 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889480&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysport9.png" , DE| SKY SPORT 9 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889479&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysport10.png" , DE| SKY SPORT 10 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889478&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportaustria1.png" , DE| SKY SPORT AUSTRIA 1 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889477&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportaustria2.png" , DE| SKY SPORT AUSTRIA 2 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889476&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportaustria3.png" , DE| SKY SPORT AUSTRIA 3 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889475&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/piconsnew/skysportaustria4.png" , DE| SKY SPORT AUSTRIA 4 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889473&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ATV-HEVC.png" , DE| ATV HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889472&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BLUE-SPORT-1-HEVC.png" , DE| BLUE SPORT 1 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889470&extension=ts
-#EXTINF:-1 group-title="EU| GERMANY HEVC" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BLUE-SPORT-1-HEVC.png" , DE| BLUE SPORT 2 HEVC
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:55:73:BE&stream=889469&extension=ts
+
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PROSIEBEN.png" , PROSIEBEN
+${HOST}/play/live.php?mac=${MAC}&stream=889558&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PROSIEBENMAXXHD.png" , PROSIEBEN MAXX
+${HOST}/play/live.php?mac=${MAC}&stream=889557&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/RTL.png" , RTL
+${HOST}/play/live.php?mac=${MAC}&stream=889556&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/RTL.png" , RTL II
+${HOST}/play/live.php?mac=${MAC}&stream=889555&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SAT1GOLDHD.png" , SAT.1 GOLD
+${HOST}/play/live.php?mac=${MAC}&stream=889554&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SAT1GOLDHD.png" , SAT.1
+${HOST}/play/live.php?mac=${MAC}&stream=889553&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VOXHD.png" , VOX
+${HOST}/play/live.php?mac=${MAC}&stream=889552&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KABEL1HD.png" , KABEL 1
+${HOST}/play/live.php?mac=${MAC}&stream=889551&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SIXXHD.png" , SIXX 
+${HOST}/play/live.php?mac=${MAC}&stream=889550&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/dmax.png" , DMAX
+${HOST}/play/live.php?mac=${MAC}&stream=889549&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/kika.png" , KIKA
+${HOST}/play/live.php?mac=${MAC}&stream=889548&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DISNEY-CHANNEL.png" , DISNEY CHANNEL
+${HOST}/play/live.php?mac=${MAC}&stream=889547&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/COMEDYCENTRAL.png" , COMEDY CENTRAL
+${HOST}/play/live.php?mac=${MAC}&stream=889546&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DELUXEMUSICHD.png" , DELUXE MUSIC
+${HOST}/play/live.php?mac=${MAC}&stream=889545&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KABEL1HD.png" , KABEL 1 DOKU
+${HOST}/play/live.php?mac=${MAC}&stream=889543&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/13th_Street_Universal_HD.png" , 13TH STREET
+${HOST}/play/live.php?mac=${MAC}&stream=889542&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MTV-HITS.png" , MTV
+${HOST}/play/live.php?mac=${MAC}&stream=889541&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/N-TV.png" , N-TV
+${HOST}/play/live.php?mac=${MAC}&stream=889540&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NITRO.png" , NITRO
+${HOST}/play/live.php?mac=${MAC}&stream=889539&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WELT-HEVC.png" , WELT
+${HOST}/play/live.php?mac=${MAC}&stream=889538&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DISCOVERY.png" , DISCOVERY
+${HOST}/play/live.php?mac=${MAC}&stream=889537&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HISTORY.png" , HISTORY
+${HOST}/play/live.php?mac=${MAC}&stream=889536&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/natgeowild.png" , NAT GEO WILD
+${HOST}/play/live.php?mac=${MAC}&stream=889535&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NATIONAL%20GEOGRAPHIC.png" , NATIONAL GEOGRAPHIC
+${HOST}/play/live.php?mac=${MAC}&stream=889534&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SPIEGELGESCHICHTE.png" , SPIEGEL GESCHICHTE
+${HOST}/play/live.php?mac=${MAC}&stream=889533&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SUPERRTL.png" , SUPER RTL
+${HOST}/play/live.php?mac=${MAC}&stream=889532&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SYFYHD.png" , SYFY
+${HOST}/play/live.php?mac=${MAC}&stream=889531&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TELE5.png" , TELE 5
+${HOST}/play/live.php?mac=${MAC}&stream=889530&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TLC.png" , TLC
+${HOST}/play/live.php?mac=${MAC}&stream=889529&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UNIVERSAL.png" , UNIVERSAL TV
+${HOST}/play/live.php?mac=${MAC}&stream=889528&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WARNERTV-COMEDY-HEVC.png" , WARNERTV COMEDY
+${HOST}/play/live.php?mac=${MAC}&stream=889527&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WARNERTV-FILM-HEVC.png" , WARNERTV FILM
+${HOST}/play/live.php?mac=${MAC}&stream=889526&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WARNERTV-SERIE-HEVC.png" , WARNERTV SERIE
+${HOST}/play/live.php?mac=${MAC}&stream=889525&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-DOCUMENTARIES-FHD.png" , SKY DOCUMENTARIES
+${HOST}/play/live.php?mac=${MAC}&stream=889524&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-NATURE-FHD.png" , SKY NATURE
+${HOST}/play/live.php?mac=${MAC}&stream=889523&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-ONE-HEVC.png" , SKY ONE
+${HOST}/play/live.php?mac=${MAC}&stream=889522&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-ATLANTIC-HEVC.png" , SKY ATLANTIC
+${HOST}/play/live.php?mac=${MAC}&stream=889521&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-REPLAY-HEVC.png" , SKY REPLAY
+${HOST}/play/live.php?mac=${MAC}&stream=889520&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CINEMA-ACTION-HEVC.png" , SKY CINEMA ACTION
+${HOST}/play/live.php?mac=${MAC}&stream=889519&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-CINEMA-HIGHLIGHT.png" , SKY CINEMA HIGHLIGHT
+${HOST}/play/live.php?mac=${MAC}&stream=889518&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CINEMA.png" , SKY CINEMA FAMILY
+${HOST}/play/live.php?mac=${MAC}&stream=889517&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CINEMA.png" , SKY CINEMA PREMIEREN +24
+${HOST}/play/live.php?mac=${MAC}&stream=889516&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skycinemapremieren.png" , SKY CINEMA PREMIEREN
+${HOST}/play/live.php?mac=${MAC}&stream=889515&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skycinemaspecialhd.png" , SKY CINEMA SPECIAL
+${HOST}/play/live.php?mac=${MAC}&stream=889514&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skycinemathrillerhd.png" , SKY CINEMA THRILLER
+${HOST}/play/live.php?mac=${MAC}&stream=889513&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/logos/comedycentral.png" , COMEDY CENTRAL
+${HOST}/play/live.php?mac=${MAC}&stream=889512&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skycrime.png" , SKY CRIME
+${HOST}/play/live.php?mac=${MAC}&stream=889511&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skykrimi.png" , SKY KRIMI
+${HOST}/play/live.php?mac=${MAC}&stream=889510&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SPORT-1-HEVC.png" , SPORT 1
+${HOST}/play/live.php?mac=${MAC}&stream=889509&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/eurosport1.png" , EUROSPORT 1
+${HOST}/play/live.php?mac=${MAC}&stream=889508&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/eurosport2.png" , EUROSPORT 2
+${HOST}/play/live.php?mac=${MAC}&stream=889507&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DAZN-BAR-1-HEVC.png" , DAZN BAR 1
+${HOST}/play/live.php?mac=${MAC}&stream=889506&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DAZN2BAR.png" , DAZN BAR 2
+${HOST}/play/live.php?mac=${MAC}&stream=889505&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportnews.png" , SKY SPORT NEWS
+${HOST}/play/live.php?mac=${MAC}&stream=889503&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/skysportf1hd.png" , SKY SPORT F1
+${HOST}/play/live.php?mac=${MAC}&stream=889504&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga.png" , SKY SPORT BUNDESLIGA 1
+${HOST}/play/live.php?mac=${MAC}&stream=889502&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , SKY SPORT BUNDESLIGA
+${HOST}/play/live.php?mac=${MAC}&stream=984666&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , SKY SPORT TOP EVENT
+${HOST}/play/live.php?mac=${MAC}&stream=984665&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , SKY SPORT TENNIS
+${HOST}/play/live.php?mac=${MAC}&stream=984664&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , SKY SPORT PREMIER LEAGUE
+${HOST}/play/live.php?mac=${MAC}&stream=984663&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , SKY SPORT MIX
+${HOST}/play/live.php?mac=${MAC}&stream=984662&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , SKY SPORT GOLF
+${HOST}/play/live.php?mac=${MAC}&stream=984661&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga2.png" , SKY SPORT BUNDESLIGA 2
+${HOST}/play/live.php?mac=${MAC}&stream=889501&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga3.png" , SKY SPORT BUNDESLIGA 3
+${HOST}/play/live.php?mac=${MAC}&stream=889500&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga4.png" , SKY SPORT BUNDESLIGA 4
+${HOST}/play/live.php?mac=${MAC}&stream=889499&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga5.png" , SKY SPORT BUNDESLIGA 5
+${HOST}/play/live.php?mac=${MAC}&stream=889498&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga6.png" , SKY SPORT BUNDESLIGA 6
+${HOST}/play/live.php?mac=${MAC}&stream=889497&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga7.png" , SKY SPORT BUNDESLIGA 7
+${HOST}/play/live.php?mac=${MAC}&stream=889496&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga8.png" , SKY SPORT BUNDESLIGA 8
+${HOST}/play/live.php?mac=${MAC}&stream=889495&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga9.png" , SKY SPORT BUNDESLIGA 9
+${HOST}/play/live.php?mac=${MAC}&stream=889494&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga10.png" , SKY SPORT BUNDESLIGA 10
+${HOST}/play/live.php?mac=${MAC}&stream=889492&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport1.png" , SKY SPORT 1
+${HOST}/play/live.php?mac=${MAC}&stream=889491&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport2.png" , SKY SPORT 2
+${HOST}/play/live.php?mac=${MAC}&stream=889489&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport3.png" , SKY SPORT 3
+${HOST}/play/live.php?mac=${MAC}&stream=889488&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport4.png" , SKY SPORT 4
+${HOST}/play/live.php?mac=${MAC}&stream=889486&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport5.png" , SKY SPORT 5
+${HOST}/play/live.php?mac=${MAC}&stream=889485&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport6.png" , SKY SPORT 6
+${HOST}/play/live.php?mac=${MAC}&stream=889483&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport7.png" , SKY SPORT 7
+${HOST}/play/live.php?mac=${MAC}&stream=889482&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport8.png" , SKY SPORT 8
+${HOST}/play/live.php?mac=${MAC}&stream=889480&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport9.png" , SKY SPORT 9
+${HOST}/play/live.php?mac=${MAC}&stream=889479&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport10.png" , SKY SPORT 10
+${HOST}/play/live.php?mac=${MAC}&stream=889478&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportaustria1.png" , SKY SPORT AUSTRIA 1
+${HOST}/play/live.php?mac=${MAC}&stream=889477&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportaustria2.png" , SKY SPORT AUSTRIA 2
+${HOST}/play/live.php?mac=${MAC}&stream=889476&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportaustria3.png" , SKY SPORT AUSTRIA 3
+${HOST}/play/live.php?mac=${MAC}&stream=889475&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportaustria4.png" , SKY SPORT AUSTRIA 4
+${HOST}/play/live.php?mac=${MAC}&stream=889473&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ATV-HEVC.png" , ATV
+${HOST}/play/live.php?mac=${MAC}&stream=889472&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BLUE-SPORT-1-HEVC.png" , BLUE SPORT 1
+${HOST}/play/live.php?mac=${MAC}&stream=889470&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BLUE-SPORT-1-HEVC.png" , BLUE SPORT 2
+${HOST}/play/live.php?mac=${MAC}&stream=889469&extension=ts

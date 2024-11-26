@@ -1,415 +1,178 @@
 #EXTM3U
 
-
-#EXTINF:-1 group-title="DEUTSCHLAND",↺ARD FHD
-${HOST3}/${user}/${pass}/154591
-#EXTINF:-1 group-title="DEUTSCHLAND",ARD HD
-${HOST3}/${user}/${pass}/95550
-#EXTINF:-1 group-title="DEUTSCHLAND",↺ZDF FHD
-${HOST3}/${user}/${pass}/95552
-#EXTINF:-1 group-title="DEUTSCHLAND",ZDF HD
-${HOST3}/${user}/${pass}/95551
-#EXTINF:-1 group-title="DEUTSCHLAND",↺RTL FHD
-${HOST3}/${user}/${pass}/95556
-#EXTINF:-1 group-title="DEUTSCHLAND",RTL HD
-${HOST3}/${user}/${pass}/95557
-#EXTINF:-1 group-title="DEUTSCHLAND",↺RTL 2 FHD
-${HOST3}/${user}/${pass}/95558
-#EXTINF:-1 group-title="DEUTSCHLAND",RTL 2 HD
-${HOST3}/${user}/${pass}/95559
-#EXTINF:-1 group-title="DEUTSCHLAND",↺SAT 1 FHD
-${HOST3}/${user}/${pass}/95566
-#EXTINF:-1 group-title="DEUTSCHLAND",SAT 1 HD
-${HOST3}/${user}/${pass}/95567
-#EXTINF:-1 group-title="DEUTSCHLAND",↺PROSIEBEN FHD
-${HOST3}/${user}/${pass}/95560
-#EXTINF:-1 group-title="DEUTSCHLAND",PROSIEBEN HD
-${HOST3}/${user}/${pass}/95561
-#EXTINF:-1 group-title="DEUTSCHLAND",↺VOX FHD
-${HOST3}/${user}/${pass}/95571
-#EXTINF:-1 group-title="DEUTSCHLAND",VOX HD
-${HOST3}/${user}/${pass}/95572
-#EXTINF:-1 group-title="DEUTSCHLAND",VOX UP
-${HOST3}/${user}/${pass}/95573
-#EXTINF:-1 group-title="DEUTSCHLAND",↺KABEL EINS FHD
-${HOST3}/${user}/${pass}/95574
-#EXTINF:-1 group-title="DEUTSCHLAND",KABEL EINS HD
-${HOST3}/${user}/${pass}/95575
-#EXTINF:-1 group-title="DEUTSCHLAND",↺PROSIEBEN MAXX FHD
-${HOST3}/${user}/${pass}/95562
-#EXTINF:-1 group-title="DEUTSCHLAND",PROSIEBEN MAXX HD
-${HOST3}/${user}/${pass}/95563
-#EXTINF:-1 group-title="DEUTSCHLAND",↺PRO 7FUN FHD
-${HOST3}/${user}/${pass}/95564
-#EXTINF:-1 group-title="DEUTSCHLAND",PRO 7FUN  HD
-${HOST3}/${user}/${pass}/95565
-#EXTINF:-1 group-title="DEUTSCHLAND",↺KABEL EINS CLASSICS FHD
-${HOST3}/${user}/${pass}/117975
-#EXTINF:-1 group-title="DEUTSCHLAND",KABEL EINS CLASSICS HD
-${HOST3}/${user}/${pass}/95576
-#EXTINF:-1 group-title="DEUTSCHLAND",TV NOW FHD
-${HOST3}/${user}/${pass}/192047
-#EXTINF:-1 group-title="DEUTSCHLAND",TV NOW HD
-${HOST3}/${user}/${pass}/192048
-#EXTINF:-1 group-title="DEUTSCHLAND",↺RTL CRIME FHD
-${HOST3}/${user}/${pass}/106168
-#EXTINF:-1 group-title="DEUTSCHLAND",RTL CRIME HD
-${HOST3}/${user}/${pass}/95582
-#EXTINF:-1 group-title="DEUTSCHLAND",↺SAT 1 GOLD FHD
-${HOST3}/${user}/${pass}/95568
-#EXTINF:-1 group-title="DEUTSCHLAND",SAT 1 GOLD HD
-${HOST3}/${user}/${pass}/95569
-#EXTINF:-1 group-title="DEUTSCHLAND",↺SAT 1 EMOTIONS FHD
-${HOST3}/${user}/${pass}/95570
-#EXTINF:-1 group-title="DEUTSCHLAND",SAT 1 EMOTIONS HD
-${HOST3}/${user}/${pass}/290256
-#EXTINF:-1 group-title="DEUTSCHLAND",↺KABEL EINS DOKU FHD
-${HOST3}/${user}/${pass}/95673
-#EXTINF:-1 group-title="DEUTSCHLAND",KABEL EINS DOKU HD
-${HOST3}/${user}/${pass}/155710
-#EXTINF:-1 group-title="DEUTSCHLAND",↺ZDF NEO FHD
-${HOST3}/${user}/${pass}/95553
-#EXTINF:-1 group-title="DEUTSCHLAND",ZDF NEO HD
-${HOST3}/${user}/${pass}/95554
-#EXTINF:-1 group-title="DEUTSCHLAND",↺ZDF INFO HD
-${HOST3}/${user}/${pass}/95555
-#EXTINF:-1 group-title="DEUTSCHLAND",↺SKY REPLAY FHD
-${HOST3}/${user}/${pass}/153823
-#EXTINF:-1 group-title="DEUTSCHLAND",SKY REPLAY HD
-${HOST3}/${user}/${pass}/107978
-#EXTINF:-1 group-title="DEUTSCHLAND",↺NITRO FHD
-${HOST3}/${user}/${pass}/95577
-#EXTINF:-1 group-title="DEUTSCHLAND",NITRO HD
-${HOST3}/${user}/${pass}/95578
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX MARTIAL ARTS KINDER
-${HOST3}/${user}/${pass}/622953
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX MARTIAL ARTS THRILLER
-${HOST3}/${user}/${pass}/622952
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX MARTIAL ARTS KOMÖDIE
-${HOST3}/${user}/${pass}/622951
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX MARTIAL ARTS SPORT
-${HOST3}/${user}/${pass}/622950
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX MARTIAL ARTS SCIENCE FICTION
-${HOST3}/${user}/${pass}/622949
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX MARTIAL ARTS ACTION
-${HOST3}/${user}/${pass}/622948
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX MARTIAL ARTS FANTASY
-${HOST3}/${user}/${pass}/622947
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX PLANET DER AFFEN
-${HOST3}/${user}/${pass}/622946
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX BOLLYWOOD
-${HOST3}/${user}/${pass}/622945
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX HIP HOP HOOD
-${HOST3}/${user}/${pass}/622944
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX SPIDER-MAN
-${HOST3}/${user}/${pass}/622943
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX HALLOWEEN 2
-${HOST3}/${user}/${pass}/622942
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX HALLOWEEN 1
-${HOST3}/${user}/${pass}/622941
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX THE FAST AND THE FURIOUS
-${HOST3}/${user}/${pass}/622940
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX THE EXPENDABLES
-${HOST3}/${user}/${pass}/622939
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX TRANSFORMERS
-${HOST3}/${user}/${pass}/622938
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX ROCKY
-${HOST3}/${user}/${pass}/622937
-#EXTINF:-1 group-title="24/7 ACTOR",BLACKBOX POLICE ACADEMY
-${HOST3}/${user}/${pass}/622936
-#EXTINF:-1 group-title="24/7 ACTOR",LEONARDO DICAPRIO
-${HOST3}/${user}/${pass}/593707
-#EXTINF:-1 group-title="24/7 ACTOR",RUSSEL CROWE
-${HOST3}/${user}/${pass}/593706
-#EXTINF:-1 group-title="24/7 ACTOR",JASON STATHAM
-${HOST3}/${user}/${pass}/593705
-#EXTINF:-1 group-title="24/7 ACTOR",TOM CRUISE
-${HOST3}/${user}/${pass}/593704
-#EXTINF:-1 group-title="24/7 ACTOR",SYLVESTER STALLONE
-${HOST3}/${user}/${pass}/593703
-#EXTINF:-1 group-title="24/7 ACTOR",BRUCE WILLIS
-${HOST3}/${user}/${pass}/593702
-#EXTINF:-1 group-title="24/7 ACTOR",JEAN CLAUDE VAN DAMME
-${HOST3}/${user}/${pass}/593701
-#EXTINF:-1 group-title="24/7 ACTOR",JACKIE CHAN
-${HOST3}/${user}/${pass}/593695
-#EXTINF:-1 group-title="24/7 ACTOR",DENZEL WASHINGTON
-${HOST3}/${user}/${pass}/593700
-#EXTINF:-1 group-title="24/7 ACTOR",WILL SMITH
-${HOST3}/${user}/${pass}/593699
-#EXTINF:-1 group-title="24/7 ACTOR",ARNOLD SCHWARZENEGGER
-${HOST3}/${user}/${pass}/593698
-#EXTINF:-1 group-title="24/7 ACTOR",TOMMY LEE JONES
-${HOST3}/${user}/${pass}/593697
-#EXTINF:-1 group-title="24/7 ACTOR",KURT RUSSELL
-${HOST3}/${user}/${pass}/593696
-#EXTINF:-1 group-title="24/7 ACTOR",007
-${HOST3}/${user}/${pass}/593710
-#EXTINF:-1 group-title="24/7 ACTOR",WESTERN 1
-${HOST3}/${user}/${pass}/593709
-#EXTINF:-1 group-title="24/7 ACTOR",WESTERN 2
-${HOST3}/${user}/${pass}/593708
-#EXTINF:-1 group-title="24/7 ACTOR",BOLLYWOOD 1
-${HOST3}/${user}/${pass}/593712
-#EXTINF:-1 group-title="24/7 ACTOR",BOLLYWOOD
-${HOST3}/${user}/${pass}/593711
-#EXTINF:-1 group-title="24/7 ACTOR",STAR WARS
-${HOST3}/${user}/${pass}/593714
-#EXTINF:-1 group-title="24/7 ACTOR",MARVEL
-${HOST3}/${user}/${pass}/593713
-#EXTINF:-1 group-title="KINDER ★ 24/7",SUPER RTL FHD
-${HOST3}/${user}/${pass}/95638
-#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 5 RAW KABEL
-${HOST3}/${user}/${pass}/160917
-#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 5 HD
-${HOST3}/${user}/${pass}/95787
-#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 6 RAW KABEL
-${HOST3}/${user}/${pass}/160918
-#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 6 HD
-${HOST3}/${user}/${pass}/95789
-#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 7 RAW KABEL
-${HOST3}/${user}/${pass}/160919
-#EXTINF:-1 group-title="SKY BUNDESLIGA",↺DE: SKY BUNDESLIGA 7 HD
-${HOST3}/${user}/${pass}/95791
-#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 8 RAW KABEL
-${HOST3}/${user}/${pass}/160920
-#EXTINF:-1 group-title="SKY BUNDESLIGA",↺DE: SKY BUNDESLIGA 8 HD
-${HOST3}/${user}/${pass}/95793
-#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 9 RAW KABEL
-${HOST3}/${user}/${pass}/160921
-#EXTINF:-1 group-title="SKY BUNDESLIGA",↺DE: SKY BUNDESLIGA 9 HD
-${HOST3}/${user}/${pass}/95795
-#EXTINF:-1 group-title="SKY BUNDESLIGA",DE: SKY BUNDESLIGA 10 RAW KABEL
-${HOST3}/${user}/${pass}/160922
-#EXTINF:-1 group-title="SKY BUNDESLIGA",↺DE: SKY BUNDESLIGA 10 HD
-${HOST3}/${user}/${pass}/95797
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",★☆★ DAZN SPORT ★☆★
-${HOST3}/${user}/${pass}/197298
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN COMBAT FHD
-${HOST3}/${user}/${pass}/587763
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN FAST FHD
-${HOST3}/${user}/${pass}/534027
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN RISE FHD
-${HOST3}/${user}/${pass}/534028
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 1 QHD
-${HOST3}/${user}/${pass}/95893
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 1 KABEL
-${HOST3}/${user}/${pass}/126492
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 1 FHD
-${HOST3}/${user}/${pass}/95891
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 1 HD
-${HOST3}/${user}/${pass}/95917
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 2 KABEL
-${HOST3}/${user}/${pass}/126491
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 2 HEVC
-${HOST3}/${user}/${pass}/149642
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 2 FHD
-${HOST3}/${user}/${pass}/95920
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORT 2 HD
-${HOST3}/${user}/${pass}/95892
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",UEFA | DAZN SPORT 1 FHD
-${HOST3}/${user}/${pass}/276901
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",UEFA | DAZN SPORT 1 HD
-${HOST3}/${user}/${pass}/276902
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN EUROSPORT 2 HD
-${HOST3}/${user}/${pass}/197302
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN SPORTDIGITAL HD
-${HOST3}/${user}/${pass}/197303
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN NBA FHD
-${HOST3}/${user}/${pass}/197304
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN NFL NETWORK FHD
-${HOST3}/${user}/${pass}/197305
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 1
-${HOST3}/${user}/${pass}/626015
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 2
-${HOST3}/${user}/${pass}/626014
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 3
-${HOST3}/${user}/${pass}/626013
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 4
-${HOST3}/${user}/${pass}/626012
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 5
-${HOST3}/${user}/${pass}/626011
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 6
-${HOST3}/${user}/${pass}/626010
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 7
-${HOST3}/${user}/${pass}/626009
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 8
-${HOST3}/${user}/${pass}/626008
-#EXTINF:-1 group-title="DAZN EVENTS & RTL NOW",DAZN UFC 9
-${HOST3}/${user}/${pass}/626007
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 15 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548739
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 16 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548740
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 17 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548741
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 18 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548742
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 19 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548743
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 20 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548744
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 21 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548745
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 22 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548746
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 23 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548747
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 24 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548748
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 25 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548749
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 26 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548750
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 27 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548751
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 28 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548752
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 29 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548753
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 30 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548754
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 31 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548755
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 32 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548756
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 33 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548757
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 34 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548758
-#EXTINF:-1 group-title="SPORT MIX [NEU]",SPORTDEUTSCHLAND.TV 35 [SPIELZEIT]
-${HOST3}/${user}/${pass}/548759
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",★☆★ UEFA CHAMPIONS LEAGUE ★☆★
-${HOST3}/${user}/${pass}/310104
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 1 RAW
-${HOST3}/${user}/${pass}/310115
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 1 HEVC
-${HOST3}/${user}/${pass}/310116
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 1 FHD
-${HOST3}/${user}/${pass}/310117
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 1 HD
-${HOST3}/${user}/${pass}/310118
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 2 RAW
-${HOST3}/${user}/${pass}/310119
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 2 FHD
-${HOST3}/${user}/${pass}/310120
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 2 HD
-${HOST3}/${user}/${pass}/310121
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 3 HD
-${HOST3}/${user}/${pass}/310124
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 4 RAW
-${HOST3}/${user}/${pass}/310125
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 4 FHD
-${HOST3}/${user}/${pass}/310126
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 4 HD
-${HOST3}/${user}/${pass}/310127
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 5 RAW
-${HOST3}/${user}/${pass}/310128
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 5 FHD
-${HOST3}/${user}/${pass}/310129
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 5 HD
-${HOST3}/${user}/${pass}/310130
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 6 RAW
-${HOST3}/${user}/${pass}/310131
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 6 FHD
-${HOST3}/${user}/${pass}/310132
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 6 HD
-${HOST3}/${user}/${pass}/310133
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 7 RAW
-${HOST3}/${user}/${pass}/310134
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 7 FHD
-${HOST3}/${user}/${pass}/310135
-#EXTINF:-1 group-title="UEFA | CHAMPIONS LEAGUE",UEFA | SKY AUSTRIA 7 HD
-${HOST3}/${user}/${pass}/310136
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | ABENTEUER FILME 20
-${HOST3}/${user}/${pass}/587743
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 ACTION
-${HOST3}/${user}/${pass}/585694
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 ACTION 1 [NEW]
-${HOST3}/${user}/${pass}/310381
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 ACTION 2 [NEW]
-${HOST3}/${user}/${pass}/310382
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 ACTION 3 [NEW]
-${HOST3}/${user}/${pass}/310383
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 AFRIKA
-${HOST3}/${user}/${pass}/540458
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 ALIEN
-${HOST3}/${user}/${pass}/522097
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 ANIME
-${HOST3}/${user}/${pass}/318809
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 ASTERIX
-${HOST3}/${user}/${pass}/585676
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 BRUCE WILLIS
-${HOST3}/${user}/${pass}/585691
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 BOLLYWOOD
-${HOST3}/${user}/${pass}/326008
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 COMEDY
-${HOST3}/${user}/${pass}/540451
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 DIE WILDEN KERLE
-${HOST3}/${user}/${pass}/585671
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 DRAMA
-${HOST3}/${user}/${pass}/310385
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 1
-${HOST3}/${user}/${pass}/596828
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 2
-${HOST3}/${user}/${pass}/596827
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 3
-${HOST3}/${user}/${pass}/596826
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 4
-${HOST3}/${user}/${pass}/596825
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 5
-${HOST3}/${user}/${pass}/596824
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 6
-${HOST3}/${user}/${pass}/596823
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 7
-${HOST3}/${user}/${pass}/596822
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 8
-${HOST3}/${user}/${pass}/596821
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 9
-${HOST3}/${user}/${pass}/596820
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 10
-${HOST3}/${user}/${pass}/596819
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 11
-${HOST3}/${user}/${pass}/596818
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 12
-${HOST3}/${user}/${pass}/596817
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 13
-${HOST3}/${user}/${pass}/596816
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 14
-${HOST3}/${user}/${pass}/596815
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 15
-${HOST3}/${user}/${pass}/596814
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 16
-${HOST3}/${user}/${pass}/596813
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 17
-${HOST3}/${user}/${pass}/596812
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 18
-${HOST3}/${user}/${pass}/596811
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 19
-${HOST3}/${user}/${pass}/596810
-#EXTINF:-1 group-title="FILME SPECIALBOX",DE FILM 24/7 | DRAMA FILME 20
-${HOST3}/${user}/${pass}/596809
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 DISNEY MOVIES
-${HOST3}/${user}/${pass}/318811
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 FILME 2023 5.1 TEST
-${HOST3}/${user}/${pass}/569350
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 FINAL DESTINATION
-${HOST3}/${user}/${pass}/585674
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 FLUCH DER KARIBIK
-${HOST3}/${user}/${pass}/540454
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 FILME [2022]
-${HOST3}/${user}/${pass}/210562
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 HORROR [NEW]
-${HOST3}/${user}/${pass}/310384
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 HALLOWEEN
-${HOST3}/${user}/${pass}/598756
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 HOOLIGAN
-${HOST3}/${user}/${pass}/328594
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 HIP-HOP
-${HOST3}/${user}/${pass}/318807
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 HARRY POTTER
-${HOST3}/${user}/${pass}/219499
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 24/7 HERR DER RINGE/DER HOBBIT
-${HOST3}/${user}/${pass}/326012
-#EXTINF:-1 group-title="FILME SPECIALBOX",FILM 7/24 HARRY POTTER [ENG]
-${HOST3}/${user}/${pass}/210412
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PROSIEBEN.png" , PROSIEBEN
+${HOST}/play/live.php?mac=${MAC}&stream=889558&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PROSIEBENMAXXHD.png" , PROSIEBEN MAXX
+${HOST}/play/live.php?mac=${MAC}&stream=889557&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/RTL.png" , RTL
+${HOST}/play/live.php?mac=${MAC}&stream=889556&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/RTL.png" , RTL II
+${HOST}/play/live.php?mac=${MAC}&stream=889555&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SAT1GOLDHD.png" , SAT.1 GOLD
+${HOST}/play/live.php?mac=${MAC}&stream=889554&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SAT1GOLDHD.png" , SAT.1
+${HOST}/play/live.php?mac=${MAC}&stream=889553&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VOXHD.png" , VOX
+${HOST}/play/live.php?mac=${MAC}&stream=889552&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KABEL1HD.png" , KABEL 1
+${HOST}/play/live.php?mac=${MAC}&stream=889551&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SIXXHD.png" , SIXX 
+${HOST}/play/live.php?mac=${MAC}&stream=889550&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/dmax.png" , DMAX
+${HOST}/play/live.php?mac=${MAC}&stream=889549&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/kika.png" , KIKA
+${HOST}/play/live.php?mac=${MAC}&stream=889548&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DISNEY-CHANNEL.png" , DISNEY CHANNEL
+${HOST}/play/live.php?mac=${MAC}&stream=889547&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/COMEDYCENTRAL.png" , COMEDY CENTRAL
+${HOST}/play/live.php?mac=${MAC}&stream=889546&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DELUXEMUSICHD.png" , DELUXE MUSIC
+${HOST}/play/live.php?mac=${MAC}&stream=889545&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KABEL1HD.png" , KABEL 1 DOKU
+${HOST}/play/live.php?mac=${MAC}&stream=889543&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/13th_Street_Universal_HD.png" , 13TH STREET
+${HOST}/play/live.php?mac=${MAC}&stream=889542&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MTV-HITS.png" , MTV
+${HOST}/play/live.php?mac=${MAC}&stream=889541&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/N-TV.png" , N-TV
+${HOST}/play/live.php?mac=${MAC}&stream=889540&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NITRO.png" , NITRO
+${HOST}/play/live.php?mac=${MAC}&stream=889539&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WELT-HEVC.png" , WELT
+${HOST}/play/live.php?mac=${MAC}&stream=889538&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DISCOVERY.png" , DISCOVERY
+${HOST}/play/live.php?mac=${MAC}&stream=889537&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HISTORY.png" , HISTORY
+${HOST}/play/live.php?mac=${MAC}&stream=889536&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/natgeowild.png" , NAT GEO WILD
+${HOST}/play/live.php?mac=${MAC}&stream=889535&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NATIONAL%20GEOGRAPHIC.png" , NATIONAL GEOGRAPHIC
+${HOST}/play/live.php?mac=${MAC}&stream=889534&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SPIEGELGESCHICHTE.png" , SPIEGEL GESCHICHTE
+${HOST}/play/live.php?mac=${MAC}&stream=889533&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SUPERRTL.png" , SUPER RTL
+${HOST}/play/live.php?mac=${MAC}&stream=889532&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SYFYHD.png" , SYFY
+${HOST}/play/live.php?mac=${MAC}&stream=889531&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TELE5.png" , TELE 5
+${HOST}/play/live.php?mac=${MAC}&stream=889530&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TLC.png" , TLC
+${HOST}/play/live.php?mac=${MAC}&stream=889529&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UNIVERSAL.png" , UNIVERSAL TV
+${HOST}/play/live.php?mac=${MAC}&stream=889528&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WARNERTV-COMEDY-HEVC.png" , WARNERTV COMEDY
+${HOST}/play/live.php?mac=${MAC}&stream=889527&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WARNERTV-FILM-HEVC.png" , WARNERTV FILM
+${HOST}/play/live.php?mac=${MAC}&stream=889526&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WARNERTV-SERIE-HEVC.png" , WARNERTV SERIE
+${HOST}/play/live.php?mac=${MAC}&stream=889525&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-DOCUMENTARIES-FHD.png" , SKY DOCUMENTARIES
+${HOST}/play/live.php?mac=${MAC}&stream=889524&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-NATURE-FHD.png" , SKY NATURE
+${HOST}/play/live.php?mac=${MAC}&stream=889523&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-ONE-HEVC.png" , SKY ONE
+${HOST}/play/live.php?mac=${MAC}&stream=889522&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-ATLANTIC-HEVC.png" , SKY ATLANTIC
+${HOST}/play/live.php?mac=${MAC}&stream=889521&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-REPLAY-HEVC.png" , SKY REPLAY
+${HOST}/play/live.php?mac=${MAC}&stream=889520&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CINEMA-ACTION-HEVC.png" , SKY CINEMA ACTION
+${HOST}/play/live.php?mac=${MAC}&stream=889519&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-CINEMA-HIGHLIGHT.png" , SKY CINEMA HIGHLIGHT
+${HOST}/play/live.php?mac=${MAC}&stream=889518&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CINEMA.png" , SKY CINEMA FAMILY
+${HOST}/play/live.php?mac=${MAC}&stream=889517&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-CINEMA.png" , SKY CINEMA PREMIEREN +24
+${HOST}/play/live.php?mac=${MAC}&stream=889516&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skycinemapremieren.png" , SKY CINEMA PREMIEREN
+${HOST}/play/live.php?mac=${MAC}&stream=889515&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skycinemaspecialhd.png" , SKY CINEMA SPECIAL
+${HOST}/play/live.php?mac=${MAC}&stream=889514&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skycinemathrillerhd.png" , SKY CINEMA THRILLER
+${HOST}/play/live.php?mac=${MAC}&stream=889513&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/logos/comedycentral.png" , COMEDY CENTRAL
+${HOST}/play/live.php?mac=${MAC}&stream=889512&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skycrime.png" , SKY CRIME
+${HOST}/play/live.php?mac=${MAC}&stream=889511&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skykrimi.png" , SKY KRIMI
+${HOST}/play/live.php?mac=${MAC}&stream=889510&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SPORT-1-HEVC.png" , SPORT 1
+${HOST}/play/live.php?mac=${MAC}&stream=889509&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/eurosport1.png" , EUROSPORT 1
+${HOST}/play/live.php?mac=${MAC}&stream=889508&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/eurosport2.png" , EUROSPORT 2
+${HOST}/play/live.php?mac=${MAC}&stream=889507&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DAZN-BAR-1-HEVC.png" , DAZN BAR 1
+${HOST}/play/live.php?mac=${MAC}&stream=889506&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DAZN2BAR.png" , DAZN BAR 2
+${HOST}/play/live.php?mac=${MAC}&stream=889505&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportnews.png" , SKY SPORT NEWS
+${HOST}/play/live.php?mac=${MAC}&stream=889503&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/skysportf1hd.png" , SKY SPORT F1
+${HOST}/play/live.php?mac=${MAC}&stream=889504&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga.png" , SKY SPORT BUNDESLIGA 1
+${HOST}/play/live.php?mac=${MAC}&stream=889502&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , SKY SPORT BUNDESLIGA
+${HOST}/play/live.php?mac=${MAC}&stream=984666&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , SKY SPORT TOP EVENT
+${HOST}/play/live.php?mac=${MAC}&stream=984665&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , SKY SPORT TENNIS
+${HOST}/play/live.php?mac=${MAC}&stream=984664&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , SKY SPORT PREMIER LEAGUE
+${HOST}/play/live.php?mac=${MAC}&stream=984663&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , SKY SPORT MIX
+${HOST}/play/live.php?mac=${MAC}&stream=984662&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SkySportBundesliga1.png" , SKY SPORT GOLF
+${HOST}/play/live.php?mac=${MAC}&stream=984661&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga2.png" , SKY SPORT BUNDESLIGA 2
+${HOST}/play/live.php?mac=${MAC}&stream=889501&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga3.png" , SKY SPORT BUNDESLIGA 3
+${HOST}/play/live.php?mac=${MAC}&stream=889500&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga4.png" , SKY SPORT BUNDESLIGA 4
+${HOST}/play/live.php?mac=${MAC}&stream=889499&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga5.png" , SKY SPORT BUNDESLIGA 5
+${HOST}/play/live.php?mac=${MAC}&stream=889498&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga6.png" , SKY SPORT BUNDESLIGA 6
+${HOST}/play/live.php?mac=${MAC}&stream=889497&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga7.png" , SKY SPORT BUNDESLIGA 7
+${HOST}/play/live.php?mac=${MAC}&stream=889496&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga8.png" , SKY SPORT BUNDESLIGA 8
+${HOST}/play/live.php?mac=${MAC}&stream=889495&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga9.png" , SKY SPORT BUNDESLIGA 9
+${HOST}/play/live.php?mac=${MAC}&stream=889494&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportbundesliga10.png" , SKY SPORT BUNDESLIGA 10
+${HOST}/play/live.php?mac=${MAC}&stream=889492&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport1.png" , SKY SPORT 1
+${HOST}/play/live.php?mac=${MAC}&stream=889491&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport2.png" , SKY SPORT 2
+${HOST}/play/live.php?mac=${MAC}&stream=889489&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport3.png" , SKY SPORT 3
+${HOST}/play/live.php?mac=${MAC}&stream=889488&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport4.png" , SKY SPORT 4
+${HOST}/play/live.php?mac=${MAC}&stream=889486&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport5.png" , SKY SPORT 5
+${HOST}/play/live.php?mac=${MAC}&stream=889485&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport6.png" , SKY SPORT 6
+${HOST}/play/live.php?mac=${MAC}&stream=889483&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport7.png" , SKY SPORT 7
+${HOST}/play/live.php?mac=${MAC}&stream=889482&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport8.png" , SKY SPORT 8
+${HOST}/play/live.php?mac=${MAC}&stream=889480&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport9.png" , SKY SPORT 9
+${HOST}/play/live.php?mac=${MAC}&stream=889479&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysport10.png" , SKY SPORT 10
+${HOST}/play/live.php?mac=${MAC}&stream=889478&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportaustria1.png" , SKY SPORT AUSTRIA 1
+${HOST}/play/live.php?mac=${MAC}&stream=889477&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportaustria2.png" , SKY SPORT AUSTRIA 2
+${HOST}/play/live.php?mac=${MAC}&stream=889476&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportaustria3.png" , SKY SPORT AUSTRIA 3
+${HOST}/play/live.php?mac=${MAC}&stream=889475&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/piconsnew/skysportaustria4.png" , SKY SPORT AUSTRIA 4
+${HOST}/play/live.php?mac=${MAC}&stream=889473&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ATV-HEVC.png" , ATV
+${HOST}/play/live.php?mac=${MAC}&stream=889472&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BLUE-SPORT-1-HEVC.png" , BLUE SPORT 1
+${HOST}/play/live.php?mac=${MAC}&stream=889470&extension=ts
+#EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BLUE-SPORT-1-HEVC.png" , BLUE SPORT 2
+${HOST}/play/live.php?mac=${MAC}&stream=889469&extension=ts

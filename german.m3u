@@ -177,7 +177,7 @@ ${HOST}/play/live.php?mac=${MAC}&stream=889470&extension=ts
 #EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BLUE-SPORT-1-HEVC.png" , BLUE SPORT 2
 ${HOST}/play/live.php?mac=${MAC}&stream=889469&extension=ts
 
-#EXTM3U
+
 #EXTINF:-1 group-title="DEUTSCHLAND",↺ARD FHD
 ${HOST3}/${user}/${pass}/154591
 #EXTINF:-1 group-title="DEUTSCHLAND",ARD HD

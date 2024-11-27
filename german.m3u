@@ -1,6 +1,4 @@
-
 #EXTM3U
-
 #EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PROSIEBEN.png" , PROSIEBEN
 ${HOST}/play/live.php?mac=${MAC}&stream=889558&extension=ts
 #EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PROSIEBENMAXXHD.png" , PROSIEBEN MAXX
@@ -177,3 +175,5 @@ ${HOST}/play/live.php?mac=${MAC}&stream=889472&extension=ts
 ${HOST}/play/live.php?mac=${MAC}&stream=889470&extension=ts
 #EXTINF:-1 group-title="GERMANY" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BLUE-SPORT-1-HEVC.png" , BLUE SPORT 2
 ${HOST}/play/live.php?mac=${MAC}&stream=889469&extension=ts
+
+
